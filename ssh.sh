@@ -1,2 +1,2 @@
 #!/bin/bash
-docker exec -it node-react-sass bash
+docker exec -it node-teste bash
