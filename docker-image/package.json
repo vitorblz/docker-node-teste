@@ -1,0 +1,15 @@
+{
+    "name": "node-teste",
+    "version": "1.0.0",
+    "description": "Image for node testes",
+    "author": "Vitor Carvalho <vitorblz@gmail.com>",
+    "main": "src/server.js",
+    "scripts": {
+      "start": "nodemon src/server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.4",
+      "nodemon": "^1.18.10",
+      "dotenv": "^6.2.0"
+    }
+  }
